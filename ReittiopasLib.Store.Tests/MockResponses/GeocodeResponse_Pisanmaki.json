@@ -1,0 +1,56 @@
+﻿[
+    {
+        "locType": "address",
+        "locTypeId": 900,
+        "name": "Pisanmäki",
+        "matchedName": "Pisanmäki",
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.680782737009,60.172288978365",
+        "details": {
+            "houseNumber": 1
+        }
+    },
+    {
+        "locType": "stop",
+        "locTypeId": 10,
+        "name": "Pisanmäki",
+        "matchedName": "Pisanmäki",
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.68024810338,60.171699323538",
+        "details": {
+            "address": "Pisantie",
+            "code": "2434301",
+            "shortCode": "E4958",
+            "changeCost": 1,
+            "lines": [
+                "2046  2:Hyljelahti",
+                "2158  1:Tillinmäki",
+                "2195N 1:Latokaski"
+            ],
+            "transport_type_id": 1
+        }
+    },
+    {
+        "locType": "stop",
+        "locTypeId": 10,
+        "name": "Pisanmäki",
+        "matchedName": "Pisanmäki",
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.681975888174,60.171618644028",
+        "details": {
+            "address": "Pisantie",
+            "code": "2434302",
+            "shortCode": "E4959",
+            "changeCost": 1,
+            "lines": [
+                "2046  1:Espoon keskus",
+                "2158  2:Kamppi, laituri 54",
+                "2195N 2:Elielinaukio, l. 36"
+            ],
+            "transport_type_id": 1
+        }
+    }
+]
