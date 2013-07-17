@@ -1,0 +1,1307 @@
+﻿[
+    [
+        {
+            "length": 12958.537,
+            "duration": 2040,
+            "legs": [
+                {
+                    "length": 216,
+                    "duration": 163.5,
+                    "type": "walk",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.876620087474,
+                                "y": 60.237461895493
+                            },
+                            "arrTime": "201307172209",
+                            "depTime": "201307172209",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.87613851449,
+                                "y": 60.238153521884
+                            },
+                            "arrTime": "201307172210",
+                            "depTime": "201307172210",
+                            "name": "Rumpupolku"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.874596986561,
+                                "y": 60.238767759155
+                            },
+                            "arrTime": "201307172212",
+                            "depTime": "201307172212",
+                            "name": "Kanneltalo",
+                            "code": "1331140",
+                            "shortCode": "1690",
+                            "stopAddress": "Klaneettitie 10"
+                        }
+                    ]
+                },
+                {
+                    "length": 11104,
+                    "duration": 1260,
+                    "type": "1",
+                    "code": "1043  2",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.874596986561,
+                                "y": 60.238767759155
+                            },
+                            "arrTime": "201307172212",
+                            "depTime": "201307172212",
+                            "name": "Kanneltalo",
+                            "code": "1331140",
+                            "shortCode": "1690",
+                            "stopAddress": "Klaneettitie 10"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.879623123513,
+                                "y": 60.237029145811
+                            },
+                            "arrTime": "201307172213",
+                            "depTime": "201307172213",
+                            "name": "Viulutie",
+                            "code": "1331167",
+                            "shortCode": "1688",
+                            "stopAddress": "Pelimannintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.883298083595,
+                                "y": 60.238090828445
+                            },
+                            "arrTime": "201307172214",
+                            "depTime": "201307172214",
+                            "name": "Kaustisentie",
+                            "code": "1331105",
+                            "shortCode": "1686",
+                            "stopAddress": "Pelimannintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.887741574456,
+                                "y": 60.237522642587
+                            },
+                            "arrTime": "201307172215",
+                            "depTime": "201307172215",
+                            "name": "Pelimannintie",
+                            "code": "1331103",
+                            "shortCode": "1684",
+                            "stopAddress": "Kantelettarentie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.888957336838,
+                                "y": 60.235755238131
+                            },
+                            "arrTime": "201307172215",
+                            "depTime": "201307172215",
+                            "name": "Kantelettarentie",
+                            "code": "1331142",
+                            "shortCode": "1682",
+                            "stopAddress": "Kantelettarentie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.889247612187,
+                                "y": 60.232477100548
+                            },
+                            "arrTime": "201307172216",
+                            "depTime": "201307172216",
+                            "name": "Näyttelijäntie",
+                            "code": "1293136",
+                            "shortCode": "1662",
+                            "stopAddress": "Näyttelijäntie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.891793046734,
+                                "y": 60.231167500372
+                            },
+                            "arrTime": "201307172216",
+                            "depTime": "201307172216",
+                            "name": "Näyttelijäntie 22",
+                            "code": "1293135",
+                            "shortCode": "1660",
+                            "stopAddress": "Näyttelijäntie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.894450854691,
+                                "y": 60.228690227922
+                            },
+                            "arrTime": "201307172217",
+                            "depTime": "201307172217",
+                            "name": "Ohjaajantie",
+                            "code": "1293133",
+                            "shortCode": "1658",
+                            "stopAddress": "Näyttelijäntie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.895104785038,
+                                "y": 60.225535282988
+                            },
+                            "arrTime": "201307172218",
+                            "depTime": "201307172218",
+                            "name": "Thalian aukio",
+                            "code": "1293131",
+                            "shortCode": "1656",
+                            "stopAddress": "Näyttelijäntie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.898064885725,
+                                "y": 60.22424071264
+                            },
+                            "arrTime": "201307172218",
+                            "depTime": "201307172218",
+                            "name": "Eliel Saarisen tie",
+                            "code": "1293124",
+                            "shortCode": "1654",
+                            "stopAddress": "Ilkantie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.902423605261,
+                                "y": 60.221320910732
+                            },
+                            "arrTime": "201307172219",
+                            "depTime": "201307172219",
+                            "name": "Haagan ammattikoulu",
+                            "code": "1293127",
+                            "shortCode": "1650",
+                            "stopAddress": "Ilkantie 4"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.907883911128,
+                                "y": 60.219120479455
+                            },
+                            "arrTime": "201307172220",
+                            "depTime": "201307172220",
+                            "name": "Metsäläntie",
+                            "code": "1293151",
+                            "shortCode": "1680",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.901009154128,
+                                "y": 60.21185195744
+                            },
+                            "arrTime": "201307172222",
+                            "depTime": "201307172222",
+                            "name": "Kivihaka",
+                            "code": "1292145",
+                            "shortCode": "1940",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.898736301474,
+                                "y": 60.206571577589
+                            },
+                            "arrTime": "201307172223",
+                            "depTime": "201307172223",
+                            "name": "Ruskeasuon varikko",
+                            "code": "1160109",
+                            "shortCode": "1932",
+                            "stopAddress": "Mannerheimintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.898881984584,
+                                "y": 60.202666063627
+                            },
+                            "arrTime": "201307172224",
+                            "depTime": "201307172224",
+                            "name": "Ruskeasuo",
+                            "code": "1160107",
+                            "shortCode": "1928",
+                            "stopAddress": "Mannerheimintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.900901551669,
+                                "y": 60.198056688801
+                            },
+                            "arrTime": "201307172225",
+                            "depTime": "201307172225",
+                            "name": "Tilkka",
+                            "code": "1160104",
+                            "shortCode": "1926",
+                            "stopAddress": "Mannerheimintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.902416278114,
+                                "y": 60.194779152235
+                            },
+                            "arrTime": "201307172226",
+                            "depTime": "201307172226",
+                            "name": "Kuusitie",
+                            "code": "1180105",
+                            "shortCode": "1920",
+                            "stopAddress": "Mannerheimintie 146"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.911144917657,
+                                "y": 60.191631760421
+                            },
+                            "arrTime": "201307172227",
+                            "depTime": "201307172227",
+                            "name": "Töölön tulli",
+                            "code": "1180115",
+                            "shortCode": "1918",
+                            "stopAddress": "Mannerheimintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.916719373752,
+                                "y": 60.189196771072
+                            },
+                            "arrTime": "201307172228",
+                            "depTime": "201307172228",
+                            "name": "Kansaneläkelaitos",
+                            "code": "1140118",
+                            "shortCode": "1916",
+                            "stopAddress": "Mannerheimintie 102"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.924184233572,
+                                "y": 60.183508054683
+                            },
+                            "arrTime": "201307172229",
+                            "depTime": "201307172229",
+                            "name": "Töölön kisahalli",
+                            "code": "1140115",
+                            "shortCode": "1914",
+                            "stopAddress": "Mannerheimintie 72"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.929645289409,
+                                "y": 60.177141811448
+                            },
+                            "arrTime": "201307172231",
+                            "depTime": "201307172231",
+                            "name": "Hesperian puisto",
+                            "code": "1130107",
+                            "shortCode": "1908",
+                            "stopAddress": "Mannerheimintie 40"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.939584695232,
+                                "y": 60.171219397376
+                            },
+                            "arrTime": "201307172233",
+                            "depTime": "201307172233",
+                            "name": "Elielinaukio",
+                            "code": "1020128",
+                            "shortCode": "2020",
+                            "stopAddress": "Elielinaukio"
+                        }
+                    ]
+                },
+                {
+                    "length": 212,
+                    "duration": 182.04,
+                    "type": "walk",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.939584695232,
+                                "y": 60.171219397376
+                            },
+                            "arrTime": "201307172233",
+                            "depTime": "201307172233",
+                            "name": "Elielinaukio",
+                            "code": "1020128",
+                            "shortCode": "2020",
+                            "stopAddress": "Elielinaukio"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.939990108179,
+                                "y": 60.171284741685
+                            },
+                            "arrTime": "201307172233",
+                            "depTime": "201307172233",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.943012191341,
+                                "y": 60.171189679569
+                            },
+                            "arrTime": "201307172235",
+                            "depTime": "201307172235",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.94297323231,
+                                "y": 60.17127612648
+                            },
+                            "arrTime": "201307172236",
+                            "depTime": "201307172240",
+                            "name": "Rautatientori",
+                            "code": "1020120",
+                            "shortCode": "2048",
+                            "stopAddress": "Laituri 8"
+                        }
+                    ]
+                },
+                {
+                    "length": 1334,
+                    "duration": 180,
+                    "type": "1",
+                    "code": "1016  1",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.94297323231,
+                                "y": 60.17127612648
+                            },
+                            "arrTime": "201307172236",
+                            "depTime": "201307172240",
+                            "name": "Rautatientori",
+                            "code": "1020120",
+                            "shortCode": "2048",
+                            "stopAddress": "Laituri 8"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.949755085155,
+                                "y": 60.173426850029
+                            },
+                            "arrTime": "201307172241",
+                            "depTime": "201307172241",
+                            "name": "Kaisaniemi",
+                            "code": "1020169",
+                            "shortCode": "2059",
+                            "stopAddress": "Kaisaniemenkatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.951967465175,
+                                "y": 60.173922619063
+                            },
+                            "arrTime": "201307172242",
+                            "depTime": "201307172242",
+                            "name": "Snellmaninkatu",
+                            "code": "1010124",
+                            "shortCode": "0454",
+                            "stopAddress": "Liisankatu 20"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.957018477235,
+                                "y": 60.174137589558
+                            },
+                            "arrTime": "201307172243",
+                            "depTime": "201307172243",
+                            "name": "Meritullinkatu",
+                            "code": "1010107",
+                            "shortCode": "2014",
+                            "stopAddress": "Liisankatu 8"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.960371837609,
+                                "y": 60.174212081385
+                            },
+                            "arrTime": "201307172243",
+                            "depTime": "201307172243",
+                            "name": "Liisanpuistikko",
+                            "code": "1010109",
+                            "shortCode": "2016",
+                            "stopAddress": "Liisankatu"
+                        }
+                    ]
+                },
+                {
+                    "length": 91,
+                    "duration": 58.02,
+                    "type": "walk",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.960371837609,
+                                "y": 60.174212081385
+                            },
+                            "arrTime": "201307172243",
+                            "depTime": "201307172243",
+                            "name": "Liisanpuistikko",
+                            "code": "1010109",
+                            "shortCode": "2016",
+                            "stopAddress": "Liisankatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.959778229291,
+                                "y": 60.174183167962
+                            },
+                            "arrTime": "201307172243",
+                            "depTime": "201307172243",
+                            "name": "Maurinkatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.959767975315,
+                                "y": 60.174264026568
+                            },
+                            "arrTime": "201307172243",
+                            "depTime": "201307172243",
+                            "name": "Liisankatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.959322353265,
+                                "y": 60.174058109457
+                            },
+                            "arrTime": "201307172243",
+                            "depTime": "201307172243",
+                            "name": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "length": 14052.356,
+            "duration": 2820,
+            "legs": [
+                {
+                    "length": 163,
+                    "duration": 124.2,
+                    "type": "walk",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.876620087474,
+                                "y": 60.237461895493
+                            },
+                            "arrTime": "201307172215",
+                            "depTime": "201307172215",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.877715366837,
+                                "y": 60.236837121017
+                            },
+                            "arrTime": "201307172217",
+                            "depTime": "201307172217",
+                            "name": "Pelimannintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.878558756998,
+                                "y": 60.237054144426
+                            },
+                            "arrTime": "201307172218",
+                            "depTime": "201307172218",
+                            "name": "Viulutie",
+                            "code": "1331166",
+                            "shortCode": "1689",
+                            "stopAddress": "Pelimannintie"
+                        }
+                    ]
+                },
+                {
+                    "length": 2065,
+                    "duration": 240,
+                    "type": "1",
+                    "code": "1043  1",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.878558756998,
+                                "y": 60.237054144426
+                            },
+                            "arrTime": "201307172218",
+                            "depTime": "201307172218",
+                            "name": "Viulutie",
+                            "code": "1331166",
+                            "shortCode": "1689",
+                            "stopAddress": "Pelimannintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.874694884814,
+                                "y": 60.239054341474
+                            },
+                            "arrTime": "201307172219",
+                            "depTime": "201307172219",
+                            "name": "Kanneltalo",
+                            "code": "1331141",
+                            "shortCode": "1691",
+                            "stopAddress": "Klaneettitie 7"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.87343677935,
+                                "y": 60.239942256091
+                            },
+                            "arrTime": "201307172219",
+                            "depTime": "201307172219",
+                            "name": "Trumpettitie",
+                            "code": "1331165",
+                            "shortCode": "1693",
+                            "stopAddress": "Soittajantie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.876135621711,
+                                "y": 60.241629887567
+                            },
+                            "arrTime": "201307172220",
+                            "depTime": "201307172220",
+                            "name": "Soittajankuja",
+                            "code": "1331147",
+                            "shortCode": "1695",
+                            "stopAddress": "Soittajantie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.878773438807,
+                                "y": 60.241702215926
+                            },
+                            "arrTime": "201307172220",
+                            "depTime": "201307172220",
+                            "name": "Kanneltie 8",
+                            "code": "1331120",
+                            "shortCode": "1697",
+                            "stopAddress": "Kanneltie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.88552817542,
+                                "y": 60.242465170315
+                            },
+                            "arrTime": "201307172222",
+                            "depTime": "201307172222",
+                            "name": "Kannelmäen ostosk.",
+                            "code": "1331122",
+                            "shortCode": "1699",
+                            "stopAddress": "Vanhaistentie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.888148109063,
+                                "y": 60.243874835149
+                            },
+                            "arrTime": "201307172222",
+                            "depTime": "201307172222",
+                            "name": "Pajupillintie",
+                            "code": "1331168",
+                            "shortCode": "1704",
+                            "stopAddress": "Kaarelantie"
+                        }
+                    ]
+                },
+                {
+                    "length": 223,
+                    "duration": 191.52,
+                    "type": "walk",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.888148109063,
+                                "y": 60.243874835149
+                            },
+                            "arrTime": "201307172222",
+                            "depTime": "201307172222",
+                            "name": "Pajupillintie",
+                            "code": "1331168",
+                            "shortCode": "1704",
+                            "stopAddress": "Kaarelantie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.890218160409,
+                                "y": 60.244640976721
+                            },
+                            "arrTime": "201307172224",
+                            "depTime": "201307172224",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.89084930012,
+                                "y": 60.244278607467
+                            },
+                            "arrTime": "201307172225",
+                            "depTime": "201307172229",
+                            "name": "Kaarelantie",
+                            "code": "1332114",
+                            "shortCode": "1952",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        }
+                    ]
+                },
+                {
+                    "length": 10288,
+                    "duration": 960,
+                    "type": "5",
+                    "code": "4474  2",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.89084930012,
+                                "y": 60.244278607467
+                            },
+                            "arrTime": "201307172225",
+                            "depTime": "201307172229",
+                            "name": "Kaarelantie",
+                            "code": "1332114",
+                            "shortCode": "1952",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.894110674729,
+                                "y": 60.240720196848
+                            },
+                            "arrTime": "201307172230",
+                            "depTime": "201307172230",
+                            "name": "Raitamaantie",
+                            "code": "1332112",
+                            "shortCode": "1950",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.896792423589,
+                                "y": 60.237775976869
+                            },
+                            "arrTime": "201307172230",
+                            "depTime": "201307172230",
+                            "name": "Venäläinen koulu",
+                            "code": "1332110",
+                            "shortCode": "1948",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.901791552628,
+                                "y": 60.232473272379
+                            },
+                            "arrTime": "201307172231",
+                            "depTime": "201307172231",
+                            "name": "Pirkkolan urheilup.",
+                            "code": "1281155",
+                            "shortCode": "1946",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.905799720691,
+                                "y": 60.227940085192
+                            },
+                            "arrTime": "201307172232",
+                            "depTime": "201307172232",
+                            "name": "Pirkkolantie",
+                            "code": "1293153",
+                            "shortCode": "1944",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.908792527129,
+                                "y": 60.219356610963
+                            },
+                            "arrTime": "201307172233",
+                            "depTime": "201307172233",
+                            "name": "Metsäläntie",
+                            "code": "1293155",
+                            "shortCode": "1942",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.901009154128,
+                                "y": 60.21185195744
+                            },
+                            "arrTime": "201307172234",
+                            "depTime": "201307172234",
+                            "name": "Kivihaka",
+                            "code": "1292145",
+                            "shortCode": "1940",
+                            "stopAddress": "Hämeenlinnanväylä"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.898736301474,
+                                "y": 60.206571577589
+                            },
+                            "arrTime": "201307172235",
+                            "depTime": "201307172235",
+                            "name": "Ruskeasuon varikko",
+                            "code": "1160109",
+                            "shortCode": "1932",
+                            "stopAddress": "Mannerheimintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.898881984584,
+                                "y": 60.202666063627
+                            },
+                            "arrTime": "201307172236",
+                            "depTime": "201307172236",
+                            "name": "Ruskeasuo",
+                            "code": "1160107",
+                            "shortCode": "1928",
+                            "stopAddress": "Mannerheimintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.900901551669,
+                                "y": 60.198056688801
+                            },
+                            "arrTime": "201307172237",
+                            "depTime": "201307172237",
+                            "name": "Tilkka",
+                            "code": "1160104",
+                            "shortCode": "1926",
+                            "stopAddress": "Mannerheimintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.902416278114,
+                                "y": 60.194779152235
+                            },
+                            "arrTime": "201307172238",
+                            "depTime": "201307172238",
+                            "name": "Kuusitie",
+                            "code": "1180105",
+                            "shortCode": "1920",
+                            "stopAddress": "Mannerheimintie 146"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.911144917657,
+                                "y": 60.191631760421
+                            },
+                            "arrTime": "201307172239",
+                            "depTime": "201307172239",
+                            "name": "Töölön tulli",
+                            "code": "1180115",
+                            "shortCode": "1918",
+                            "stopAddress": "Mannerheimintie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.916719373752,
+                                "y": 60.189196771072
+                            },
+                            "arrTime": "201307172240",
+                            "depTime": "201307172240",
+                            "name": "Kansaneläkelaitos",
+                            "code": "1140118",
+                            "shortCode": "1916",
+                            "stopAddress": "Mannerheimintie 102"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.924378908592,
+                                "y": 60.183381034217
+                            },
+                            "arrTime": "201307172241",
+                            "depTime": "201307172241",
+                            "name": "Töölön kisahalli",
+                            "code": "1140215",
+                            "shortCode": "1912",
+                            "stopAddress": "Mannerheimintie 72"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.929645289409,
+                                "y": 60.177141811448
+                            },
+                            "arrTime": "201307172243",
+                            "depTime": "201307172243",
+                            "name": "Hesperian puisto",
+                            "code": "1130107",
+                            "shortCode": "1908",
+                            "stopAddress": "Mannerheimintie 40"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.939585207577,
+                                "y": 60.171237345786
+                            },
+                            "arrTime": "201307172245",
+                            "depTime": "201307172245",
+                            "name": "Elielinaukio",
+                            "code": "1020228",
+                            "shortCode": "2020",
+                            "stopAddress": "Elielinaukio"
+                        }
+                    ]
+                },
+                {
+                    "length": 1311,
+                    "duration": 1114.74,
+                    "type": "walk",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.939585207577,
+                                "y": 60.171237345786
+                            },
+                            "arrTime": "201307172245",
+                            "depTime": "201307172245",
+                            "name": "Elielinaukio",
+                            "code": "1020228",
+                            "shortCode": "2020",
+                            "stopAddress": "Elielinaukio"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.939990108179,
+                                "y": 60.171284741685
+                            },
+                            "arrTime": "201307172245",
+                            "depTime": "201307172245",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.943562040164,
+                                "y": 60.171202822324
+                            },
+                            "arrTime": "201307172248",
+                            "depTime": "201307172248",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.94452396398,
+                                "y": 60.171889820439
+                            },
+                            "arrTime": "201307172249",
+                            "depTime": "201307172249",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.944513158118,
+                                "y": 60.171952729594
+                            },
+                            "arrTime": "201307172249",
+                            "depTime": "201307172249",
+                            "name": "Vilhonkatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.947445178504,
+                                "y": 60.172106844175
+                            },
+                            "arrTime": "201307172252",
+                            "depTime": "201307172252",
+                            "name": "Kaisaniemenkatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.949634014166,
+                                "y": 60.173726618971
+                            },
+                            "arrTime": "201307172255",
+                            "depTime": "201307172255",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.950442027152,
+                                "y": 60.173818668545
+                            },
+                            "arrTime": "201307172256",
+                            "depTime": "201307172256",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.950620837997,
+                                "y": 60.174021142667
+                            },
+                            "arrTime": "201307172256",
+                            "depTime": "201307172256",
+                            "name": "Liisankatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.959322353265,
+                                "y": 60.174058109457
+                            },
+                            "arrTime": "201307172303",
+                            "depTime": "201307172303",
+                            "name": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "length": 10280.213,
+            "duration": 2700,
+            "legs": [
+                {
+                    "length": 1164,
+                    "duration": 981.3,
+                    "type": "walk",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.876620087474,
+                                "y": 60.237461895493
+                            },
+                            "arrTime": "201307172220",
+                            "depTime": "201307172220",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.877229114362,
+                                "y": 60.237217320358
+                            },
+                            "arrTime": "201307172221",
+                            "depTime": "201307172221",
+                            "name": "Klaneettikuja"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.8759236636,
+                                "y": 60.236866904519
+                            },
+                            "arrTime": "201307172222",
+                            "depTime": "201307172222",
+                            "name": "Klaneettipolku"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.876852630108,
+                                "y": 60.236030506361
+                            },
+                            "arrTime": "201307172224",
+                            "depTime": "201307172224",
+                            "name": "Klaneettipolku"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.877701072606,
+                                "y": 60.235019604487
+                            },
+                            "arrTime": "201307172225",
+                            "depTime": "201307172225",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.877682466563,
+                                "y": 60.234188562973
+                            },
+                            "arrTime": "201307172227",
+                            "depTime": "201307172227",
+                            "name": "Laurinniitynpolku"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.877651018878,
+                                "y": 60.233282209021
+                            },
+                            "arrTime": "201307172228",
+                            "depTime": "201307172228",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.879820177929,
+                                "y": 60.232796619439
+                            },
+                            "arrTime": "201307172230",
+                            "depTime": "201307172230",
+                            "name": "Laurinniitynkuja"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.88000771385,
+                                "y": 60.232520715099
+                            },
+                            "arrTime": "201307172231",
+                            "depTime": "201307172231",
+                            "name": "Laurinniitynrinne"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.880733119785,
+                                "y": 60.231707179433
+                            },
+                            "arrTime": "201307172232",
+                            "depTime": "201307172232",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.881154811305,
+                                "y": 60.2310778658
+                            },
+                            "arrTime": "201307172233",
+                            "depTime": "201307172233",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.881358542545,
+                                "y": 60.230800954309
+                            },
+                            "arrTime": "201307172234",
+                            "depTime": "201307172234",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.883076339384,
+                                "y": 60.230250089447
+                            },
+                            "arrTime": "201307172235",
+                            "depTime": "201307172235",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.883400695047,
+                                "y": 60.23063389399
+                            },
+                            "arrTime": "201307172236",
+                            "depTime": "201307172236",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.88348146164,
+                                "y": 60.230617199968
+                            },
+                            "arrTime": "201307172236",
+                            "depTime": "201307172236",
+                            "name": "Pennikuja"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.883352184998,
+                                "y": 60.230306597479
+                            },
+                            "arrTime": "201307172237",
+                            "depTime": "201307172237",
+                            "name": "Pennikuja"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.88343114636,
+                                "y": 60.230289915496
+                            },
+                            "arrTime": "201307172237",
+                            "depTime": "201307172237",
+                            "name": "Pohjois-Haaga",
+                            "code": "1294552",
+                            "shortCode": "0082",
+                            "stopAddress": "Kuparitie 3"
+                        }
+                    ]
+                },
+                {
+                    "length": 7854,
+                    "duration": 660,
+                    "type": "12",
+                    "code": "3002M22",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.88343114636,
+                                "y": 60.230289915496
+                            },
+                            "arrTime": "201307172237",
+                            "depTime": "201307172237",
+                            "name": "Pohjois-Haaga",
+                            "code": "1294552",
+                            "shortCode": "0082",
+                            "stopAddress": "Kuparitie 3"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.89326528133,
+                                "y": 60.218277199429
+                            },
+                            "arrTime": "201307172239",
+                            "depTime": "201307172239",
+                            "name": "Huopalahti",
+                            "code": "1291551",
+                            "shortCode": "0079",
+                            "stopAddress": "Kylätie 25"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.921144361459,
+                                "y": 60.207530931531
+                            },
+                            "arrTime": "201307172241",
+                            "depTime": "201307172241",
+                            "name": "Ilmala",
+                            "code": "1172553",
+                            "shortCode": "0078",
+                            "stopAddress": "Postintaival 3"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.93273407993,
+                                "y": 60.199021535857
+                            },
+                            "arrTime": "201307172243",
+                            "depTime": "201307172243",
+                            "name": "Pasila",
+                            "code": "1174552",
+                            "shortCode": "0071",
+                            "stopAddress": "Ratapihantie 6"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.939537671179,
+                                "y": 60.172727701852
+                            },
+                            "arrTime": "201307172248",
+                            "depTime": "201307172248",
+                            "name": "Helsinki",
+                            "code": "1020552",
+                            "shortCode": "0070",
+                            "stopAddress": "Ranta- ja Mrl-radat"
+                        }
+                    ]
+                },
+                {
+                    "length": 1260,
+                    "duration": 1080.78,
+                    "type": "walk",
+                    "locs": [
+                        {
+                            "coord": {
+                                "x": 24.939537671179,
+                                "y": 60.172727701852
+                            },
+                            "arrTime": "201307172248",
+                            "depTime": "201307172248",
+                            "name": "Helsinki",
+                            "code": "1020552",
+                            "shortCode": "0070",
+                            "stopAddress": "Ranta- ja Mrl-radat"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.939846691348,
+                                "y": 60.172508292236
+                            },
+                            "arrTime": "201307172248",
+                            "depTime": "201307172248",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.940966033555,
+                                "y": 60.172905172158
+                            },
+                            "arrTime": "201307172250",
+                            "depTime": "201307172250",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.943304292061,
+                                "y": 60.173021403543
+                            },
+                            "arrTime": "201307172251",
+                            "depTime": "201307172251",
+                            "name": "Kaisaniementie"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.943320041422,
+                                "y": 60.172942302499
+                            },
+                            "arrTime": "201307172252",
+                            "depTime": "201307172252",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.947351307837,
+                                "y": 60.173039226671
+                            },
+                            "arrTime": "201307172255",
+                            "depTime": "201307172255",
+                            "name": "Puutarhakatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.94889017912,
+                                "y": 60.173110802712
+                            },
+                            "arrTime": "201307172256",
+                            "depTime": "201307172256",
+                            "name": "Kaisaniemenkatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.949634014166,
+                                "y": 60.173726618971
+                            },
+                            "arrTime": "201307172257",
+                            "depTime": "201307172257",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.950442027152,
+                                "y": 60.173818668545
+                            },
+                            "arrTime": "201307172258",
+                            "depTime": "201307172258",
+                            "name": null
+                        },
+                        {
+                            "coord": {
+                                "x": 24.950620837997,
+                                "y": 60.174021142667
+                            },
+                            "arrTime": "201307172258",
+                            "depTime": "201307172258",
+                            "name": "Liisankatu"
+                        },
+                        {
+                            "coord": {
+                                "x": 24.959322353265,
+                                "y": 60.174058109457
+                            },
+                            "arrTime": "201307172306",
+                            "depTime": "201307172306",
+                            "name": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+]

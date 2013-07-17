@@ -123,6 +123,18 @@
     <Content Include="MockResponses\GeocodeResponse_Pisanmaki.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="MockResponses\ReverseGeocode_Pisanmaki_Address.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MockResponses\ReverseGeocode_Pisanmaki_POI.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MockResponses\ReverseGeocode_Pisanmaki_Stop.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MockResponses\Route_Klaneettitie_Liisankatu.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <None Include="packages.config" />
     <None Include="ReittiopasLib.Store.Tests_TemporaryKey.pfx" />
   </ItemGroup>

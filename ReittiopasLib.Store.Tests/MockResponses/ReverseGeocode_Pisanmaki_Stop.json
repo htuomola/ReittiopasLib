@@ -1,0 +1,64 @@
+﻿[
+    {
+        "locType": "stop",
+        "locTypeId": "10",
+        "name": "Pisanmäki, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.68024810338,60.171699323538",
+        "distance": "0.000947448705735566",
+        "details": {
+            "address": "Pisantie",
+            "code": "2434301",
+            "shortCode": "E4958",
+            "changeCost": "1",
+            "lines": [
+                "2046  2:Hyljelahti",
+                "2158  1:Tillinmäki",
+                "2195N 1:Latokaski"
+            ]
+        }
+    },
+    {
+        "locType": "stop",
+        "locTypeId": "10",
+        "name": "Pisanmäki, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.681975888174,60.171618644028",
+        "distance": "96.3324327570817",
+        "details": {
+            "address": "Pisantie",
+            "code": "2434302",
+            "shortCode": "E4959",
+            "changeCost": "1",
+            "lines": [
+                "2046  1:Espoon keskus",
+                "2158  2:Kamppi, laituri 54",
+                "2195N 2:Elielinaukio, l. 36"
+            ]
+        }
+    },
+    {
+        "locType": "stop",
+        "locTypeId": "10",
+        "name": "Eestinlaakso, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.678365552071,60.17038953415",
+        "distance": "179.49466476388",
+        "details": {
+            "address": "Eestinlaakso",
+            "code": "2434226",
+            "shortCode": "E4946",
+            "changeCost": "0.7",
+            "lines": [
+                "2013  1:Eestinlaakso",
+                "2013  2:Tapiola"
+            ]
+        }
+    }
+]

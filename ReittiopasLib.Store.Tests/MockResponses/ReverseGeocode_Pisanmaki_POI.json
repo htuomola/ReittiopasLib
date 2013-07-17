@@ -1,0 +1,44 @@
+﻿[
+    {
+        "locType": "poi",
+        "locTypeId": "1",
+        "name": "Pisa, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.682418316922,60.173842349484",
+        "distance": "267.438765678608",
+        "details": {
+            "address": null,
+            "poiType": "city area"
+        }
+    },
+    {
+        "locType": "poi",
+        "locTypeId": "1",
+        "name": "Eestinlaakso, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.676647037961,60.168289017046",
+        "distance": "429.34929003423",
+        "details": {
+            "address": null,
+            "poiType": "city area"
+        }
+    },
+    {
+        "locType": "poi",
+        "locTypeId": "1",
+        "name": "Kukkumäki, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.680374276271,60.176060879961",
+        "distance": "486.003253183863",
+        "details": {
+            "address": null,
+            "poiType": "city area"
+        }
+    }
+]

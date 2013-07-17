@@ -1,0 +1,44 @@
+﻿[
+    {
+        "locType": "address",
+        "locTypeId": "900",
+        "name": "Pisanmäki 4, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.680410964659,60.17173439099",
+        "distance": "9.84814587105913",
+        "details": {
+            "address": null,
+            "houseNumber": "4"
+        }
+    },
+    {
+        "locType": "address",
+        "locTypeId": "900",
+        "name": "Pisanmäki 6, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.680197772294,60.171879096301",
+        "distance": "20.2229563886604",
+        "details": {
+            "address": null,
+            "houseNumber": "6"
+        }
+    },
+    {
+        "locType": "address",
+        "locTypeId": "900",
+        "name": "Pisanmäki 5, Espoo",
+        "matchedName": null,
+        "lang": "fi",
+        "city": "Espoo",
+        "coords": "24.680782737009,60.172288978365",
+        "distance": "72.0892739559614",
+        "details": {
+            "address": null,
+            "houseNumber": "5"
+        }
+    }
+]
