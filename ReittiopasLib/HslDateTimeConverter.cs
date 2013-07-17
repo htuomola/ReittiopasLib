@@ -1,6 +1,4 @@
-﻿using System;
-using System.Globalization;
-using Newtonsoft.Json;
+﻿using System.Globalization;
 using Newtonsoft.Json.Converters;
 
 namespace ReittiopasLib
@@ -11,7 +9,6 @@ namespace ReittiopasLib
         {
             DateTimeFormat = "yyyyMMddHHmm";
             Culture = CultureInfo.InvariantCulture;
-            
         }
     }
 }
