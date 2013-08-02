@@ -14,10 +14,10 @@ namespace ReittiopasLib.Model
         /// <summary>
         /// Get coordinates' string representation in the format expected by Reittiopas API
         /// </summary>
-        /// <returns>This coordinate values in "longitude,latitude" format </returns>
+        /// <returns>This coordinate values in "latitude,longitude" format </returns>
         public override string ToString()
         {
-            return string.Format("{0},{1}", Longitude, Latitude);
+            return string.Format("{0},{1}", Latitude, Longitude);
         }
     }
 }

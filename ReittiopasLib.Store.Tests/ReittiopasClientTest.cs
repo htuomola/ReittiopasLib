@@ -15,7 +15,7 @@ namespace ReittiopasLib.Store.Tests
         {
             var mockResponse = await TestUtils.GetMockResponse("GeocodeResponse_pisanmaki.json");
             var mockHandler = new MockHttpMessageHandler(mockResponse);
-            var target = new ReittiopasClient(mockHandler);
+            var target = new ReittiopasClient("", "", mockHandler);
             IEnumerable<Place> places = await target.Geocode("Pisanmäki");
             places.Should().HaveCount(3);
             var first = places.First();
@@ -40,7 +40,7 @@ namespace ReittiopasLib.Store.Tests
         {
             var mockResponse = await TestUtils.GetMockResponse("ReverseGeocode_Pisanmaki_Address.json");
             var mockHandler = new MockHttpMessageHandler(mockResponse);
-            var target = new ReittiopasClient(mockHandler);
+            var target = new ReittiopasClient("", "", mockHandler);
             var coords = new Coordinates(24.68024810338, 60.171699323538);
             IEnumerable<Place> places = await target.ReverseGeocode(coords);
             places.Should().HaveCount(3);
@@ -52,7 +52,7 @@ namespace ReittiopasLib.Store.Tests
         {
             var mockResponse = await TestUtils.GetMockResponse("ReverseGeocode_Pisanmaki_POI.json");
             var mockHandler = new MockHttpMessageHandler(mockResponse);
-            var target = new ReittiopasClient(mockHandler);
+            var target = new ReittiopasClient("", "", mockHandler);
             var coords = new Coordinates(24.68024810338, 60.171699323538);
             IEnumerable<Place> places = await target.ReverseGeocode(coords, PlaceKind.POI);
             places.Should().HaveCount(3);
@@ -64,7 +64,7 @@ namespace ReittiopasLib.Store.Tests
         {
             var mockResponse = await TestUtils.GetMockResponse("ReverseGeocode_Pisanmaki_Stop.json");
             var mockHandler = new MockHttpMessageHandler(mockResponse);
-            var target = new ReittiopasClient(mockHandler);
+            var target = new ReittiopasClient("", "", mockHandler);
             var coords = new Coordinates(24.68024810338, 60.171699323538);
             IEnumerable<Place> places = await target.ReverseGeocode(coords, PlaceKind.Stop);
             places.Should().HaveCount(3);
@@ -76,7 +76,7 @@ namespace ReittiopasLib.Store.Tests
         {
             var mockResponse = await TestUtils.GetMockResponse("Route_Klaneettitie_Liisankatu.json");
             var mockHandler = new MockHttpMessageHandler(mockResponse);
-            var target = new ReittiopasClient(mockHandler);
+            var target = new ReittiopasClient("", "", mockHandler);
             var request = new RouteParameters()
                 {
                     From = new Coordinates(24.876620087474, 60.237461895493),

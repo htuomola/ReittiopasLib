@@ -12,19 +12,21 @@ namespace ReittiopasLib
 {
     public class ReittiopasClient
     {
-        private const string Username = "";
-        private const string Password = "";
         private const string BaseUri = "http://api.reittiopas.fi/hsl/prod/?";
+        
+        private readonly string _username;
+        private readonly string _password;
+        private readonly HttpClient _httpClient;
 
-        private HttpClient _httpClient;
-
-        public ReittiopasClient()
-            : this(new HttpClientHandler())
+        public ReittiopasClient(string apiUsername, string apiPassword)
+            : this(apiUsername, apiPassword, new HttpClientHandler())
         {
         }
 
-        public ReittiopasClient(HttpMessageHandler httpHandler)
+        public ReittiopasClient(string apiUsername, string apiPassword, HttpMessageHandler httpHandler)
         {
+            _username = apiUsername;
+            _password = apiPassword;
             _httpClient = new HttpClient(httpHandler);
             var defaultSettings = new JsonSerializerSettings()
                 {
@@ -95,13 +97,13 @@ namespace ReittiopasLib
 
         //}
 
-        private static Uri BuildRequestUri(string requestType, Dictionary<string, string> parameters)
+        private Uri BuildRequestUri(string requestType, Dictionary<string, string> parameters)
         {
             var defaultParams = new Dictionary<string, string>
                 {
                     {"request", requestType},
-                    {"user", Username},
-                    {"pass", Password},
+                    {"user", _username},
+                    {"pass", _password},
                     {"epsg_in", "wgs84"},
                     {"epsg_out", "wgs84"}
                 };
